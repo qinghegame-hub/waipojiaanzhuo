@@ -1,0 +1,9 @@
+{"file":"loading.png","frames":{
+"but_kaishiyouxi_png":{"x":753,"y":1,"w":264,"h":82,"offX":0,"offY":0,"sourceW":264,"sourceH":82},
+"but_shurumingzi1_png":{"x":753,"y":85,"w":40,"h":40,"offX":0,"offY":0,"sourceW":40,"sourceH":40},
+"but_shurumingzi2_png":{"x":795,"y":85,"w":40,"h":40,"offX":0,"offY":0,"sourceW":40,"sourceH":40},
+"img_beijingloading_png":{"x":1,"y":1,"w":750,"h":1334,"offX":0,"offY":0,"sourceW":750,"sourceH":1334},
+"img_jindutiaoshang_png":{"x":1,"y":1374,"w":596,"h":21,"offX":0,"offY":0,"sourceW":596,"sourceH":21},
+"img_jindutiaoxia_png":{"x":1,"y":1337,"w":610,"h":35,"offX":0,"offY":0,"sourceW":610,"sourceH":35},
+"img_nichengxianshi_png":{"x":613,"y":1337,"w":291,"h":42,"offX":0,"offY":0,"sourceW":291,"sourceH":42},
+"img_nihcengtouxiang_png":{"x":837,"y":85,"w":35,"h":35,"offX":0,"offY":0,"sourceW":35,"sourceH":35}}}

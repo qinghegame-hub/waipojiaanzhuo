@@ -1,0 +1,1074 @@
+{
+	"groups": [
+		{
+			"keys": "1001_ske_json,1001_tex_json,1001_tex_png,getjinbi_ske_json,getjinbi_tex_json,getjinbi_tex_png,saobadonghua_ske_json,saobadonghua_tex_json,saobadonghua_tex_png,description_json,pugong_ske_json,pugong_tex_json,pugong_tex_png,shaneyoubaoshan_ske_json,shaneyoubaoshan_tex_json,shaneyoubaoshan_tex_png,shanzhenhaiwei_ske_json,shanzhenhaiwei_tex_json,shanzhenhaiwei_tex_png,shizhidadong_ske_json,shizhidadong_tex_json,shizhidadong_tex_png,shuzhiyiweiyi_ske_json,shuzhiyiweiyi_tex_json,shuzhiyiweiyi_tex_png,suanchuangwubi_tex_png,suanxiangpubi_ske_json,suanxiangpubi_tex_json,suanxiangpubi_tex_png,tainrurenxin_ske_json,tainrurenxin_tex_json,tainrurenxin_tex_png,tianmi_ske_json,tianmi_tex_json,tianmi_tex_png,wulabuhun_ske_json,wulabuhun_tex_json,wulabuhun_tex_png,wuweiwuqiongzhen_ske_json,wuweiwuqiongzhen_tex_json,wuweiwuqiongzhen_tex_png,yuweiwuqiong_ske_json,yuweiwuqiong_tex_json,yuweiwuqiong_tex_png,zhuiji_ske_json,zhuiji_tex_json,zhuiji_tex_png,bazhenyushi_ske_json,bazhenyushi_tex_json,bazhenyushi_tex_png,dapengwuding_ske_json,dapengwuding_tex_json,dapengwuding_tex_png,fengsuilonggan_ske_json,fengsuilonggan_tex_json,fengsuilonggan_tex_png,fengxianglieding_ske_json,fengxianglieding_tex_json,fengxianglieding_tex_png,ganzhifeilong_ske_json,ganzhifeilong_tex_json,ganzhifeilong_tex_png,haicuojiangyao_ske_json,haicuojiangyao_tex_json,haicuojiangyao_tex_png,huiwei_ske_json,huiwei_tex_json,huiwei_tex_png,meiwei_ske_json,meiwei_tex_json,meiwei_tex_png,1022_tex_png,1002_ske_json,1002_tex_json,1002_tex_png,1003_ske_json,1003_tex_json,1003_tex_png,1004_ske_json,1004_tex_json,1004_tex_png,1005_ske_json,1005_tex_json,1005_tex_png,1006_ske_json,1006_tex_json,1006_tex_png,1007_ske_json,1007_tex_json,1007_tex_png,1008_ske_json,1008_tex_json,1008_tex_png,1009_ske_json,1009_tex_json,1009_tex_png,1010_ske_json,1010_tex_json,1010_tex_png,1011_ske_json,1011_tex_json,1011_tex_png,1012_ske_json,1012_tex_json,1012_tex_png,1013_ske_json,1013_tex_json,1013_tex_png,1014_ske_json,1014_tex_json,1014_tex_png,1015_ske_json,1015_tex_json,1015_tex_png,1016_ske_json,1016_tex_json,1016_tex_png,1017_ske_json,1017_tex_json,1017_tex_png,1018_ske_json,1018_tex_json,1018_tex_png,1019_ske_json,1019_tex_json,1019_tex_png,1020_ske_json,1020_tex_json,1020_tex_png,1021_ske_json,1021_tex_json,1021_tex_png,1022_ske_json,1022_tex_json,beijingyin_mp3,anniu_mp3,sumachangkuai_tex_png,sumachangkuai_ske_json,sumachangkuai_tex_json,suanchuangwubi_ske_json,suanchuangwubi_tex_json,button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,thumb_pb_png,track_pb_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,track_sb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,bg_jpg,egret_icon_png,daerzitiku_json,ererzitiku_json,gukehanhuabiao_json,jinenghanhua_json,longgudonghuapeizhi_json,sunnvtiku_json,toudingwenzi_json,xifutiku_json,xingmingku_json,youxitishibiao_json,anniu1_json,anniu2_json,beijingtu1_json,beijingtu2_json,beijingtu3_json,beijingtu4_json,beijingtu5_json,beijingtu6_json,beijingtu7_json,beijingtu8_json,caipu1_json,caipu2_json,daoju1_json,daoju2_json,datu1_json,datu2_json,datu3_json,datu4_json,jiaju1_json,jiaju2_json,jiaju3_json,jiaju4_json,touxiang_json,xiaotu1_json,xiaotu2_json,xiaotu3_json,xiaotu4_json,xiaotu5_json,xiaotu6_json",
+			"name": "preload"
+		},
+		{
+			"keys": "loading_json",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "animation/1001_ske.json",
+			"type": "json",
+			"name": "1001_ske_json"
+		},
+		{
+			"url": "animation/1001_tex.json",
+			"type": "json",
+			"name": "1001_tex_json"
+		},
+		{
+			"url": "animation/1001_tex.png",
+			"type": "image",
+			"name": "1001_tex_png"
+		},
+		{
+			"url": "animation/getjinbi_ske.json",
+			"type": "json",
+			"name": "getjinbi_ske_json"
+		},
+		{
+			"url": "animation/getjinbi_tex.json",
+			"type": "json",
+			"name": "getjinbi_tex_json"
+		},
+		{
+			"url": "animation/getjinbi_tex.png",
+			"type": "image",
+			"name": "getjinbi_tex_png"
+		},
+		{
+			"url": "animation/saobadonghua_ske.json",
+			"type": "json",
+			"name": "saobadonghua_ske_json"
+		},
+		{
+			"url": "animation/saobadonghua_tex.json",
+			"type": "json",
+			"name": "saobadonghua_tex_json"
+		},
+		{
+			"url": "animation/saobadonghua_tex.png",
+			"type": "image",
+			"name": "saobadonghua_tex_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "animation/jinengdonghua/pugong_ske.json",
+			"type": "json",
+			"name": "pugong_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/pugong_tex.json",
+			"type": "json",
+			"name": "pugong_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/pugong_tex.png",
+			"type": "image",
+			"name": "pugong_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/shaneyoubaoshan_ske.json",
+			"type": "json",
+			"name": "shaneyoubaoshan_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shaneyoubaoshan_tex.json",
+			"type": "json",
+			"name": "shaneyoubaoshan_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shaneyoubaoshan_tex.png",
+			"type": "image",
+			"name": "shaneyoubaoshan_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/shanzhenhaiwei_ske.json",
+			"type": "json",
+			"name": "shanzhenhaiwei_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shanzhenhaiwei_tex.json",
+			"type": "json",
+			"name": "shanzhenhaiwei_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shanzhenhaiwei_tex.png",
+			"type": "image",
+			"name": "shanzhenhaiwei_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/shizhidadong_ske.json",
+			"type": "json",
+			"name": "shizhidadong_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shizhidadong_tex.json",
+			"type": "json",
+			"name": "shizhidadong_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shizhidadong_tex.png",
+			"type": "image",
+			"name": "shizhidadong_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/shuzhiyiweiyi_ske.json",
+			"type": "json",
+			"name": "shuzhiyiweiyi_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shuzhiyiweiyi_tex.json",
+			"type": "json",
+			"name": "shuzhiyiweiyi_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/shuzhiyiweiyi_tex.png",
+			"type": "image",
+			"name": "shuzhiyiweiyi_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/suanchuangwubi_tex.png",
+			"type": "image",
+			"name": "suanchuangwubi_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/suanxiangpubi_ske.json",
+			"type": "json",
+			"name": "suanxiangpubi_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/suanxiangpubi_tex.json",
+			"type": "json",
+			"name": "suanxiangpubi_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/suanxiangpubi_tex.png",
+			"type": "image",
+			"name": "suanxiangpubi_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/tainrurenxin_ske.json",
+			"type": "json",
+			"name": "tainrurenxin_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/tainrurenxin_tex.json",
+			"type": "json",
+			"name": "tainrurenxin_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/tainrurenxin_tex.png",
+			"type": "image",
+			"name": "tainrurenxin_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/tianmi_ske.json",
+			"type": "json",
+			"name": "tianmi_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/tianmi_tex.json",
+			"type": "json",
+			"name": "tianmi_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/tianmi_tex.png",
+			"type": "image",
+			"name": "tianmi_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/wulabuhun_ske.json",
+			"type": "json",
+			"name": "wulabuhun_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/wulabuhun_tex.json",
+			"type": "json",
+			"name": "wulabuhun_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/wulabuhun_tex.png",
+			"type": "image",
+			"name": "wulabuhun_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/wuweiwuqiongzhen_ske.json",
+			"type": "json",
+			"name": "wuweiwuqiongzhen_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/wuweiwuqiongzhen_tex.json",
+			"type": "json",
+			"name": "wuweiwuqiongzhen_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/wuweiwuqiongzhen_tex.png",
+			"type": "image",
+			"name": "wuweiwuqiongzhen_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/yuweiwuqiong_ske.json",
+			"type": "json",
+			"name": "yuweiwuqiong_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/yuweiwuqiong_tex.json",
+			"type": "json",
+			"name": "yuweiwuqiong_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/yuweiwuqiong_tex.png",
+			"type": "image",
+			"name": "yuweiwuqiong_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/zhuiji_ske.json",
+			"type": "json",
+			"name": "zhuiji_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/zhuiji_tex.json",
+			"type": "json",
+			"name": "zhuiji_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/zhuiji_tex.png",
+			"type": "image",
+			"name": "zhuiji_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/bazhenyushi_ske.json",
+			"type": "json",
+			"name": "bazhenyushi_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/bazhenyushi_tex.json",
+			"type": "json",
+			"name": "bazhenyushi_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/bazhenyushi_tex.png",
+			"type": "image",
+			"name": "bazhenyushi_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/dapengwuding_ske.json",
+			"type": "json",
+			"name": "dapengwuding_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/dapengwuding_tex.json",
+			"type": "json",
+			"name": "dapengwuding_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/dapengwuding_tex.png",
+			"type": "image",
+			"name": "dapengwuding_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/fengsuilonggan_ske.json",
+			"type": "json",
+			"name": "fengsuilonggan_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/fengsuilonggan_tex.json",
+			"type": "json",
+			"name": "fengsuilonggan_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/fengsuilonggan_tex.png",
+			"type": "image",
+			"name": "fengsuilonggan_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/fengxianglieding_ske.json",
+			"type": "json",
+			"name": "fengxianglieding_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/fengxianglieding_tex.json",
+			"type": "json",
+			"name": "fengxianglieding_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/fengxianglieding_tex.png",
+			"type": "image",
+			"name": "fengxianglieding_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/ganzhifeilong_ske.json",
+			"type": "json",
+			"name": "ganzhifeilong_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/ganzhifeilong_tex.json",
+			"type": "json",
+			"name": "ganzhifeilong_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/ganzhifeilong_tex.png",
+			"type": "image",
+			"name": "ganzhifeilong_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/haicuojiangyao_ske.json",
+			"type": "json",
+			"name": "haicuojiangyao_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/haicuojiangyao_tex.json",
+			"type": "json",
+			"name": "haicuojiangyao_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/haicuojiangyao_tex.png",
+			"type": "image",
+			"name": "haicuojiangyao_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/huiwei_ske.json",
+			"type": "json",
+			"name": "huiwei_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/huiwei_tex.json",
+			"type": "json",
+			"name": "huiwei_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/huiwei_tex.png",
+			"type": "image",
+			"name": "huiwei_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/meiwei_ske.json",
+			"type": "json",
+			"name": "meiwei_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/meiwei_tex.json",
+			"type": "json",
+			"name": "meiwei_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/meiwei_tex.png",
+			"type": "image",
+			"name": "meiwei_tex_png"
+		},
+		{
+			"url": "animation/1022_tex.png",
+			"type": "image",
+			"name": "1022_tex_png"
+		},
+		{
+			"url": "animation/1002_ske.json",
+			"type": "json",
+			"name": "1002_ske_json"
+		},
+		{
+			"url": "animation/1002_tex.json",
+			"type": "json",
+			"name": "1002_tex_json"
+		},
+		{
+			"url": "animation/1002_tex.png",
+			"type": "image",
+			"name": "1002_tex_png"
+		},
+		{
+			"url": "animation/1003_ske.json",
+			"type": "json",
+			"name": "1003_ske_json"
+		},
+		{
+			"url": "animation/1003_tex.json",
+			"type": "json",
+			"name": "1003_tex_json"
+		},
+		{
+			"url": "animation/1003_tex.png",
+			"type": "image",
+			"name": "1003_tex_png"
+		},
+		{
+			"url": "animation/1004_ske.json",
+			"type": "json",
+			"name": "1004_ske_json"
+		},
+		{
+			"url": "animation/1004_tex.json",
+			"type": "json",
+			"name": "1004_tex_json"
+		},
+		{
+			"url": "animation/1004_tex.png",
+			"type": "image",
+			"name": "1004_tex_png"
+		},
+		{
+			"url": "animation/1005_ske.json",
+			"type": "json",
+			"name": "1005_ske_json"
+		},
+		{
+			"url": "animation/1005_tex.json",
+			"type": "json",
+			"name": "1005_tex_json"
+		},
+		{
+			"url": "animation/1005_tex.png",
+			"type": "image",
+			"name": "1005_tex_png"
+		},
+		{
+			"url": "animation/1006_ske.json",
+			"type": "json",
+			"name": "1006_ske_json"
+		},
+		{
+			"url": "animation/1006_tex.json",
+			"type": "json",
+			"name": "1006_tex_json"
+		},
+		{
+			"url": "animation/1006_tex.png",
+			"type": "image",
+			"name": "1006_tex_png"
+		},
+		{
+			"url": "animation/1007_ske.json",
+			"type": "json",
+			"name": "1007_ske_json"
+		},
+		{
+			"url": "animation/1007_tex.json",
+			"type": "json",
+			"name": "1007_tex_json"
+		},
+		{
+			"url": "animation/1007_tex.png",
+			"type": "image",
+			"name": "1007_tex_png"
+		},
+		{
+			"url": "animation/1008_ske.json",
+			"type": "json",
+			"name": "1008_ske_json"
+		},
+		{
+			"url": "animation/1008_tex.json",
+			"type": "json",
+			"name": "1008_tex_json"
+		},
+		{
+			"url": "animation/1008_tex.png",
+			"type": "image",
+			"name": "1008_tex_png"
+		},
+		{
+			"url": "animation/1009_ske.json",
+			"type": "json",
+			"name": "1009_ske_json"
+		},
+		{
+			"url": "animation/1009_tex.json",
+			"type": "json",
+			"name": "1009_tex_json"
+		},
+		{
+			"url": "animation/1009_tex.png",
+			"type": "image",
+			"name": "1009_tex_png"
+		},
+		{
+			"url": "animation/1010_ske.json",
+			"type": "json",
+			"name": "1010_ske_json"
+		},
+		{
+			"url": "animation/1010_tex.json",
+			"type": "json",
+			"name": "1010_tex_json"
+		},
+		{
+			"url": "animation/1010_tex.png",
+			"type": "image",
+			"name": "1010_tex_png"
+		},
+		{
+			"url": "animation/1011_ske.json",
+			"type": "json",
+			"name": "1011_ske_json"
+		},
+		{
+			"url": "animation/1011_tex.json",
+			"type": "json",
+			"name": "1011_tex_json"
+		},
+		{
+			"url": "animation/1011_tex.png",
+			"type": "image",
+			"name": "1011_tex_png"
+		},
+		{
+			"url": "animation/1012_ske.json",
+			"type": "json",
+			"name": "1012_ske_json"
+		},
+		{
+			"url": "animation/1012_tex.json",
+			"type": "json",
+			"name": "1012_tex_json"
+		},
+		{
+			"url": "animation/1012_tex.png",
+			"type": "image",
+			"name": "1012_tex_png"
+		},
+		{
+			"url": "animation/1013_ske.json",
+			"type": "json",
+			"name": "1013_ske_json"
+		},
+		{
+			"url": "animation/1013_tex.json",
+			"type": "json",
+			"name": "1013_tex_json"
+		},
+		{
+			"url": "animation/1013_tex.png",
+			"type": "image",
+			"name": "1013_tex_png"
+		},
+		{
+			"url": "animation/1014_ske.json",
+			"type": "json",
+			"name": "1014_ske_json"
+		},
+		{
+			"url": "animation/1014_tex.json",
+			"type": "json",
+			"name": "1014_tex_json"
+		},
+		{
+			"url": "animation/1014_tex.png",
+			"type": "image",
+			"name": "1014_tex_png"
+		},
+		{
+			"url": "animation/1015_ske.json",
+			"type": "json",
+			"name": "1015_ske_json"
+		},
+		{
+			"url": "animation/1015_tex.json",
+			"type": "json",
+			"name": "1015_tex_json"
+		},
+		{
+			"url": "animation/1015_tex.png",
+			"type": "image",
+			"name": "1015_tex_png"
+		},
+		{
+			"url": "animation/1016_ske.json",
+			"type": "json",
+			"name": "1016_ske_json"
+		},
+		{
+			"url": "animation/1016_tex.json",
+			"type": "json",
+			"name": "1016_tex_json"
+		},
+		{
+			"url": "animation/1016_tex.png",
+			"type": "image",
+			"name": "1016_tex_png"
+		},
+		{
+			"url": "animation/1017_ske.json",
+			"type": "json",
+			"name": "1017_ske_json"
+		},
+		{
+			"url": "animation/1017_tex.json",
+			"type": "json",
+			"name": "1017_tex_json"
+		},
+		{
+			"url": "animation/1017_tex.png",
+			"type": "image",
+			"name": "1017_tex_png"
+		},
+		{
+			"url": "animation/1018_ske.json",
+			"type": "json",
+			"name": "1018_ske_json"
+		},
+		{
+			"url": "animation/1018_tex.json",
+			"type": "json",
+			"name": "1018_tex_json"
+		},
+		{
+			"url": "animation/1018_tex.png",
+			"type": "image",
+			"name": "1018_tex_png"
+		},
+		{
+			"url": "animation/1019_ske.json",
+			"type": "json",
+			"name": "1019_ske_json"
+		},
+		{
+			"url": "animation/1019_tex.json",
+			"type": "json",
+			"name": "1019_tex_json"
+		},
+		{
+			"url": "animation/1019_tex.png",
+			"type": "image",
+			"name": "1019_tex_png"
+		},
+		{
+			"url": "animation/1020_ske.json",
+			"type": "json",
+			"name": "1020_ske_json"
+		},
+		{
+			"url": "animation/1020_tex.json",
+			"type": "json",
+			"name": "1020_tex_json"
+		},
+		{
+			"url": "animation/1020_tex.png",
+			"type": "image",
+			"name": "1020_tex_png"
+		},
+		{
+			"url": "animation/1021_ske.json",
+			"type": "json",
+			"name": "1021_ske_json"
+		},
+		{
+			"url": "animation/1021_tex.json",
+			"type": "json",
+			"name": "1021_tex_json"
+		},
+		{
+			"url": "animation/1021_tex.png",
+			"type": "image",
+			"name": "1021_tex_png"
+		},
+		{
+			"url": "animation/1022_ske.json",
+			"type": "json",
+			"name": "1022_ske_json"
+		},
+		{
+			"url": "animation/1022_tex.json",
+			"type": "json",
+			"name": "1022_tex_json"
+		},
+		{
+			"url": "sound/beijingyin.mp3",
+			"type": "sound",
+			"name": "beijingyin_mp3"
+		},
+		{
+			"url": "sound/anniu.mp3",
+			"type": "sound",
+			"name": "anniu_mp3"
+		},
+		{
+			"url": "animation/jinengdonghua/sumachangkuai_tex.png",
+			"type": "image",
+			"name": "sumachangkuai_tex_png"
+		},
+		{
+			"url": "animation/jinengdonghua/sumachangkuai_ske.json",
+			"type": "json",
+			"name": "sumachangkuai_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/sumachangkuai_tex.json",
+			"type": "json",
+			"name": "sumachangkuai_tex_json"
+		},
+		{
+			"url": "animation/jinengdonghua/suanchuangwubi_ske.json",
+			"type": "json",
+			"name": "suanchuangwubi_ske_json"
+		},
+		{
+			"url": "animation/jinengdonghua/suanchuangwubi_tex.json",
+			"type": "json",
+			"name": "suanchuangwubi_tex_json"
+		},
+		{
+			"url": "assets/guanfangziyuan/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/guanfangziyuan/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/guanfangziyuan/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "json/daerzitiku.json",
+			"type": "json",
+			"name": "daerzitiku_json"
+		},
+		{
+			"url": "json/ererzitiku.json",
+			"type": "json",
+			"name": "ererzitiku_json"
+		},
+		{
+			"url": "json/gukehanhuabiao.json",
+			"type": "json",
+			"name": "gukehanhuabiao_json"
+		},
+		{
+			"url": "json/jinenghanhua.json",
+			"type": "json",
+			"name": "jinenghanhua_json"
+		},
+		{
+			"url": "json/longgudonghuapeizhi.json",
+			"type": "json",
+			"name": "longgudonghuapeizhi_json"
+		},
+		{
+			"url": "json/sunnvtiku.json",
+			"type": "json",
+			"name": "sunnvtiku_json"
+		},
+		{
+			"url": "json/toudingwenzi.json",
+			"type": "json",
+			"name": "toudingwenzi_json"
+		},
+		{
+			"url": "json/xifutiku.json",
+			"type": "json",
+			"name": "xifutiku_json"
+		},
+		{
+			"url": "json/xingmingku.json",
+			"type": "json",
+			"name": "xingmingku_json"
+		},
+		{
+			"url": "json/youxitishibiao.json",
+			"type": "json",
+			"name": "youxitishibiao_json"
+		},
+		{
+			"url": "assets/myziyuan/anniu1.json",
+			"type": "sheet",
+			"name": "anniu1_json",
+			"subkeys": "but_caipuqueding1_png,but_caipuqueding2_png,but_chaoshifenxiang1_png,but_chaoshifenxiang2_png,but_chaoshigoumai1_png,but_chaoshigoumai2_png,but_chaoshishipin1_png,but_chaoshishipin2_png,but_down1_png,but_down2_png,but_guanbi1_png,but_guanbi2_png,but_haoyoupaihang1_png,but_haoyoupaihang2_png,but_jian1_png,but_jian2_png,but_jiekuan1_png,but_jiekuan2_png,but_jiepinanniu1_png,but_jiepinanniu2_png,but_jiesuo1_png,but_jiesuo2_png,but_jiesuo3_png,but_jinru1_png,but_jinru2_png,but_paihangbang1_png,but_paihangbang2_png,but_paihanglingjiang1_png,but_paihanglingjiang2_png,but_paihangshangyiye1_png,but_paihangshangyiye2_png,but_paihangxiayiye1_png,but_paihangxiayiye2_png,but_peng1_png,but_peng2_png,but_pinyonganniu1_png,but_pinyonganniu2_png,but_quxiao1_png,but_quxiao2_png,but_richeng1_png,but_richeng2_png,but_shaizi1_png,but_shijiepaihang1_png,but_shijiepaihang2_png,but_shipinzhaopinanniu1_png,but_shipinzhaopinanniu2_png,but_shiyonganniu1_png,but_shiyonganniu2_png,but_shougou1_png,but_shougou2_png,but_taotao1_png,but_taotao2_png,but_tiaozhan1_png,but_tiaozhan2_png,but_up1_png,but_up2_png,but_xiaofei1_png,but_xiaofei2_png,but_zha1_png,but_zha2_png,but_zhizuo1_png,but_zhizuo2_png,but_zhu1_png,but_zhu2_png,but_zhuanfa1_png,but_zhuanfa2_png"
+		},
+		{
+			"url": "assets/myziyuan/anniu2.json",
+			"type": "sheet",
+			"name": "anniu2_json",
+			"subkeys": "but_baojieyuan1_png,but_baojieyuan2_png,but_caipu1_png,but_caipu2_png,but_chuancaiyuan1_png,but_chuancaiyuan2_png,but_chufaanniu2_png,but_chufaanniu_png,but_daana1_png,but_daana2_png,but_daanb1_png,but_daanb2_png,but_daanc1_png,but_daanc2_png,but_daand1_png,but_daand2_png,but_danju1_png,but_danju2_png,but_fangqi1_png,but_fangqi2_png,but_fuwuyuan1_png,but_fuwuyuan2_png,but_gongyuan1_png,but_gongyuan2_png,but_goumai1_png,but_goumai2_png,but_goumai3_png,but_guanbianniu1_png,but_guanbianniu2_png,but_guanli1_png,but_guanli2_png,but_guyong1_png,but_guyong2_png,but_hotel1_png,but_hotel2_png,but_huijia1_png,but_huijia2_png,but_huoguo1_png,but_huoguo2_png,but_jiaona1_png,but_jiaona2_png,but_jiepin1_png,but_jiepin2_png,but_jieshou1_png,but_jieshou_png,but_jingyinbaobiao1_png,but_jingyinbaobiao2_png,but_kaishipipei1_png,but_kaishipipei2_png,but_kuaican1_png,but_kuaican2_png,but_laji1_png,but_laji2_png,but_libao1_png,but_libao2_png,but_licai1_png,but_licai2_png,but_likai1_png,but_likai2_png,but_liuyan1_png,but_liuyan2_png,but_pinyong1_png,but_pinyong2_png,but_pvebiaozhi1_png,but_pvebiaozhi2_png,but_queding1_png,but_queding2_png,but_quxiaozidonganniu1_png,but_quxiaozidonganniu2_png,but_renshianniu1_png,but_renshianniu2_png,but_richenganniu1_png,but_richenganniu2_png,but_shaizi2_png,but_shangcaianniu1_png,but_shangcaianniu2_png,but_shiyong1_png,but_shiyong2_png,but_shiyong3_png,but_shouyinyuan1_png,but_shouyinyuan2_png,but_shuaxin1_png,but_shuaxin2_png,but_shuoming1_png,but_shuoming2_png,but_tiandian1_png,but_tiandian2_png,but_tianjia1_png,but_tianjia2_png,but_tuiguanganniu1_png,but_tuiguanganniu2_png,but_wubeijiangli1_png,but_wubeijiangli2_png,but_wubeijiangli_fenxiang1_png,but_wubeijiangli_fenxiang2_png,but_wubeijiangli_shipin1_png,but_wubeijiangli_shipin2_png,but_xiaochi1_png,but_xiaochi2_png,but_xuanxiang1_png,but_xuanxiang2_png,but_xuqiucaiqipao2_png,but_xuqiucaiqipao_png,but_yinxiao1_png,but_yinxiao2_png,but_yuangong1_png,but_yuangong2_png,but_zhaopinanniu1_png,but_zhaopinanniu2_png,but_zhuangxiu1_png,but_zhuangxiu2_png,but_zidonganniu1_png,but_zidonganniu2_png,img_jiaohuanniudibu1_png,img_jiaohuanniudibu_png,img_tishidagong1_png,img_tishidagong2_png,img_tishifanbei1_png,img_tishifanbei2_png,img_tishifanbeizhuanfa1_png,img_tishifanbeizhuanfa2_png,img_tishimiandan1_png,img_tishimiandan2_png,img_tishiqueding1_png,img_tishiqueding2_png,img_tishiquxiao1_png,img_tishiquxiao2_png,img_wenzitishikuang_png,img_xiamiandaisuoanniu_png,img_xinshouduihuakuang_png,img_yindaoshangshouzhi_png,img_yindaoxiashouzhi_png,img_yindaoyoushangshouzhi_png,img_yindaoyoushouzhi_png,img_yindaoyouxiashouzhi_png,img_yindaozuoshangshouzhi_png,img_yindaozuoshouzhi_png,img_yindaozuoxiashouzhi_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu1.json",
+			"type": "sheet",
+			"name": "beijingtu1_json",
+			"subkeys": "img_caipujieshaobg_png,img_pvpzhandoubeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu2.json",
+			"type": "sheet",
+			"name": "beijingtu2_json",
+			"subkeys": "img_chengshibeijing_png,img_gonggaobeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu3.json",
+			"type": "sheet",
+			"name": "beijingtu3_json",
+			"subkeys": "img_dianpu_png,img_huodebeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu4.json",
+			"type": "sheet",
+			"name": "beijingtu4_json",
+			"subkeys": "img_jiatingbeijing_png,img_maicaibj_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu5.json",
+			"type": "sheet",
+			"name": "beijingtu5_json",
+			"subkeys": "img_pipeibeijing_png,img_zhandoubeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu6.json",
+			"type": "sheet",
+			"name": "beijingtu6_json",
+			"subkeys": "img_jiemiandabeijing1_png,img_jiemiandabeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu7.json",
+			"type": "sheet",
+			"name": "beijingtu7_json",
+			"subkeys": "img_fandianyuanhuabg_png,img_tiziqianduan_png"
+		},
+		{
+			"url": "assets/myziyuan/beijingtu8.json",
+			"type": "sheet",
+			"name": "beijingtu8_json",
+			"subkeys": "img_shangcengbudong_png,img_xiaceng_png"
+		},
+		{
+			"url": "assets/myziyuan/caipu1.json",
+			"type": "sheet",
+			"name": "caipu1_json",
+			"subkeys": "1001_png,1002_png,1003_png,1004_png,1005_png,1006_png,1007_png,1008_png,1009_png,1010_png,1011_png,1012_png,1013_png,1014_png,1015_png,1016_png,1017_png,1018_png,1019_png,1020_png,1021_png,1022_png,1023_png,1024_png,1025_png,1026_png,1027_png,1028_png,1029_png,1030_png,2001_png,2002_png,2003_png,2004_png,2005_png,2006_png,2007_png,2008_png,2009_png,2010_png,2011_png,2012_png,2013_png,2014_png,2015_png,2016_png,2017_png,2018_png,2019_png,2020_png,2021_png,2022_png,2023_png,2024_png,2025_png,2026_png,2027_png,2028_png,2029_png,2030_png"
+		},
+		{
+			"url": "assets/myziyuan/caipu2.json",
+			"type": "sheet",
+			"name": "caipu2_json",
+			"subkeys": "3001_png,3002_png,3003_png,3004_png,3005_png,3006_png,3007_png,3008_png,3009_png,3010_png,3011_png,3012_png,3013_png,3014_png,3015_png,3016_png,3017_png,3018_png,3019_png,3020_png,3021_png,3022_png,3023_png,3024_png,3025_png,3026_png,3027_png,3028_png,3029_png,3030_png,4001_png,4002_png,4003_png,4004_png,4005_png,4006_png,4007_png,4008_png,4009_png,4010_png,4011_png,4012_png,4013_png,4014_png,4015_png,4016_png,4017_png,4018_png,4019_png,4020_png,4021_png,4022_png,4023_png,4024_png,4025_png,4026_png,4027_png,4028_png,4029_png,4030_png"
+		},
+		{
+			"url": "assets/myziyuan/daoju1.json",
+			"type": "sheet",
+			"name": "daoju1_json",
+			"subkeys": "img_anquanguanli_png,img_babiwawa_png,img_baishatang_png,img_baoan_png,img_baoxiantuixiao_png,img_bazhenyushijineeng_png,img_benkuijineeng_png,img_chaoshifudai1_png,img_chaoshifudai2_png,img_chaoshifudai3_png,img_chengxuyuan_png,img_chuancaimidiandaoju_png,img_chuanjiacaipu_png,img_chuanshicaipu_png,img_chudaoju_png,img_chuyibaodian_png,img_chuyidaquan_png,img_chuzhiluandunjineng_png,img_dapenwudingjienng_png,img_dasao_png,img_dasaochu_png,img_dianfanbao_png,img_donghuapian_png,img_dujitangjineneg_png,img_fengsuilongganjieneng_png,img_fengxiangliedingjineng_png,img_fenshoujieneng_png,img_fuzhongjineneg_png,img_ganmaojiaolang_png,img_ganzhifeilongjineng_png,img_gaodangdiannao_png,img_gaodangerji_png,img_gudujineneg_png,img_haicuojiangyaojineneg_png,img_hourenjineeng_png,img_huahuati_png,img_huaiyangmidiandaoju_png,img_huajiaodaoju_png,img_huiweijineng_png,img_huiweiwuqiongjineng_png"
+		},
+		{
+			"url": "assets/myziyuan/daoju2.json",
+			"type": "sheet",
+			"name": "daoju2_json",
+			"subkeys": "img_jiabanjineng_png,img_jiangyayao_png,img_jimu_png,img_jiuxinwan_png,img_kongjineng_png,img_kuizhirenkoujineng_png,img_lajiaodaoju_png,img_malapubijineng_png,img_meiweijiayaojineng_png,img_meiweijienng_png,img_mincaimidiandaoju_png,img_motuoche_png,img_pipagao_png,img_pixie_png,img_ps4_png,img_qingtangguashuijineng_png,img_saodijiqiren_png,img_shanzhenhaiweijineng_png,img_shipinweisheng_png,img_shizhidadongjineng_png,img_shizhiwuweijineng_png,img_shoubiao_png,img_shuzhiyiweijineng_png,img_suanshuangjineng_png,img_suanshuangwubijienng_png,img_suanxiangpubijineng_png,img_tianmijineng_png,img_tianrurenxinjineng_png,img_tiantianmimijineng_png,img_tixudao_png,img_touzijinli_png,img_weishengguanli_png,img_wulabuhuanjineng_png,img_wuweiwuqiongjineneg_png,img_xiangcaimidiandaoju_png,img_xiangqing_png,img_xiaojiaoche_png,img_xichenqi_png,img_xiyi_png,img_xiyiji_png,img_xuexi_png,img_yaoyaoche_png,img_yinxiaocelue_png,img_younijineneg_png,img_zaojiaoji_png,img_zhitengyao_png,img_zhubo_png,img_zhucuizhizhenjineng_png,img_zuofan_png"
+		},
+		{
+			"url": "assets/myziyuan/datu1.json",
+			"type": "sheet",
+			"name": "datu1_json",
+			"subkeys": "img_caipubg_png,img_chaoshijiemianbj_png,img_daojutipsbj_png,img_fandiandianpubj_png,img_zhaopinbeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/datu2.json",
+			"type": "sheet",
+			"name": "datu2_json",
+			"subkeys": "img_daitutanchukuang_png,img_heisezhezao_png,img_liuyanbg_png,img_meiribaogaobg_png,img_tanchubeijing_png,img_tongyongpinghejiemianpng_png,img_tongyongtishikuang_png,img_topbg_png,img_toudingwenzikuang_png,img_xiangkuangbeijing_png,img_yuangongbeijing_png"
+		},
+		{
+			"url": "assets/myziyuan/datu3.json",
+			"type": "sheet",
+			"name": "datu3_json",
+			"subkeys": "img_baobiaodiban_png,img_zhonghuohou_png"
+		},
+		{
+			"url": "assets/myziyuan/datu4.json",
+			"type": "sheet",
+			"name": "datu4_json",
+			"subkeys": "img_dahuohou_png,img_xiaohuohou_png"
+		},
+		{
+			"url": "assets/myziyuan/jiaju1.json",
+			"type": "sheet",
+			"name": "jiaju1_json",
+			"subkeys": "img_jiaju1_1_png,img_jiaju1_2_png,img_jiaju1_3_png,img_jiaju1_4_png,img_jiaju1_5_png"
+		},
+		{
+			"url": "assets/myziyuan/jiaju2.json",
+			"type": "sheet",
+			"name": "jiaju2_json",
+			"subkeys": "img_jiaju1_6_png,img_jiaju2_1_png,img_jiaju2_2_png,img_jiaju2_3_png,img_jiaju2_4_png,img_jiaju2_5_png,img_jiaju2_6_png"
+		},
+		{
+			"url": "assets/myziyuan/jiaju3.json",
+			"type": "sheet",
+			"name": "jiaju3_json",
+			"subkeys": "img_jiaju3_1_png,img_jiaju3_2_png,img_jiaju3_3_png,img_jiaju3_4_png,img_jiaju3_5_png,img_jiaju3_6_png"
+		},
+		{
+			"url": "assets/myziyuan/jiaju4.json",
+			"type": "sheet",
+			"name": "jiaju4_json",
+			"subkeys": "img_jiaju4_1_png,img_jiaju4_2_png,img_jiaju4_3_png,img_jiaju4_4_png,img_jiaju4_5_png,img_jiaju4_6_png,img_weijiesuo_png"
+		},
+		{
+			"url": "assets/myziyuan/loading.json",
+			"type": "sheet",
+			"name": "loading_json",
+			"subkeys": "but_kaishiyouxi_png,but_shurumingzi1_png,but_shurumingzi2_png,img_beijingloading_png,img_jindutiaoshang_png,img_jindutiaoxia_png,img_nichengxianshi_png,img_nihcengtouxiang_png"
+		},
+		{
+			"url": "assets/myziyuan/touxiang.json",
+			"type": "sheet",
+			"name": "touxiang_json",
+			"subkeys": "tx1000_png,tx1001_png,tx1002_png,tx1003_png,tx1004_png,tx1005_png,tx1006_png,tx1007_png,tx1008_png,tx1009_png,tx1010_png,tx1011_png,tx1012_png,tx1013_png,tx1014_png,tx1015_png,tx1016_png,tx1017_png,tx1018_png,tx1019_png,tx1020_png,tx1021_png,tx1022_png,tx1023_png,tx1024_png,tx1025_png,tx1026_png,tx1027_png,tx1028_png,tx1029_png,tx1030_png,tx1031_png,tx1032_png,tx1033_png,tx1034_png,tx1035_png,tx1036_png,tx1037_png,tx1038_png,tx1039_png,tx1040_png,tx1041_png,tx1042_png,tx1043_png,tx1044_png,tx1045_png,tx1046_png,tx1047_png,tx1048_png,tx1049_png,tx1050_png,tx1051_png,tx1052_png,tx1053_png,tx1054_png,tx1055_png,tx1056_png,tx1057_png,tx1058_png,tx1059_png,tx1060_png,tx1061_png,tx1062_png,tx1063_png,tx1064_png,tx1065_png,tx1066_png,tx1067_png,tx1068_png,tx1069_png,tx1070_png,tx1071_png,tx1072_png,tx1073_png,tx1074_png,tx1075_png,tx1076_png,tx1077_png,tx1078_png,tx1079_png,tx1080_png,tx1081_png,tx1082_png,tx1083_png,tx1084_png,tx1085_png,tx1086_png,tx1087_png,tx1088_png,tx1089_png,tx1090_png,tx1091_png,tx1092_png,tx1093_png,tx1094_png,tx1095_png,tx1096_png,tx1097_png,tx1098_png,tx1099_png,tx1100_png,tx1101_png,tx1102_png,tx1103_png,tx1104_png,tx1105_png,tx1106_png,tx1107_png,tx1108_png,tx1109_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu1.json",
+			"type": "sheet",
+			"name": "xiaotu1_json",
+			"subkeys": "but_guyuanxiangkuang_png,img_biaoticaipu_png,img_biaoticaipujieshao_png,img_biaoticaishichang_png,img_biaotijiedao_png,img_caipandiban1_png,img_caipandiban_png,img_chaoshizhekou_png,img_chengshizhanlidian_png,img_chuzhaotishi_png,img_daerzitouxiangkuang_png,img_danjuneirong_png,img_daojutipszhezhao_png,img_dengjitubiao_png,img_dianzhuxiangkuang_png,img_difangyoubiao_png,img_difangzhandou_png,img_ererzitouxiangkuang_png,img_family_png,img_fuzhuchengyuan_png,img_fuzhuxuetiao_png,img_jiedaozijitubiao_png,img_jindutiaobeijing_png,img_jindutiaogundong_png,img_kongbaijiahao_png,img_pvpbiaozhi_png,img_shengyukuang_png,img_shoufei1_png,img_shoufei_png,img_siwangbiaozhi_png,img_tilitishibj_png,img_weichuli_png,img_weihuode_png,img_wofangyoubiao_png,img_xingren2_png,img_xingren_png,img_zhandoushenli_png,img_zhandoushibai_png,img_zhaopinxiangkuang_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu2.json",
+			"type": "sheet",
+			"name": "xiaotu2_json",
+			"subkeys": "but_chaji_png,but_chuang_png,but_dianshi_png,but_guizi_png,but_maowo_png,but_shafa_png,but_shuzhuo_png,img_biaotiguanli_png,img_chajibiaoshi_png,img_chenggong1_png,img_chenggong2_png,img_chenggong3_png,img_chuandanbiaozhi_png,img_chuandantuiguang_png,img_daiyanbiaozhi_png,img_daiyantuiguang_png,img_dianshibiaozhi_png,img_dianshiguanggao_png,img_jiajudiban_png,img_jianglibiaoti_png,img_meishijie_png,img_pengrenchenggong_png,img_pengrenshibai_png,img_pinglunbiaozhi_png,img_pinluntuiguang_png,img_pinyongyinzhang_png,img_shibai1_png,img_shibai2_png,img_shibai3_png,img_wanmeix1_png,img_wanmeix2_png,img_wanmeix3_png,img_wanmeix4_png,img_wanmeix5_png,img_wanmeix6_png,img_wanmeix7_png,img_wanmeix8_png,img_wanmeix9_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu3.json",
+			"type": "sheet",
+			"name": "xiaotu3_json",
+			"subkeys": "img_baicai_png,img_biaotiliuyan_png,img_cailanzi_png,img_chuangbiaoshi_png,img_daerxi_png,img_daerzi_png,img_daerzibiaoshi_png,img_danmuzeizao_png,img_datidikuang_png,img_dianshibiaoshi_png,img_dibudiban2_png,img_dibudiban_png,img_donggua_png,img_duihuatishi_png,img_ererzi_png,img_guizibiaoshi_png,img_haopin1_png,img_haopin2_png,img_haopin3_png,img_haopin4_png,img_haopin5_png,img_jiajuchufabeijing_png,img_jiatinghemu_png,img_laodongtishi_png,img_meiritanchutishi_png,img_qinfenkeku_png,img_qipaokuang_png,img_rixingyishan_png,img_rou_png,img_shafabiaoshi_png,img_shuliangtubiao_png,img_sunnvbiaoshi_png,img_tongyongzhezaodikuang_png,img_touxiangkuang_png,img_tudou_png,img_wenzidikuang1_png,img_wenzidikuang_png,img_xiaoerzibiaoshi_png,img_xiaosunnv_png,img_xifubiaoshi_png,img_xiuxitishi_png,img_xunxunshanyou_png,img_yu_png,img_zhuozibiaoshi_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu4.json",
+			"type": "sheet",
+			"name": "xiaotu4_json",
+			"subkeys": "img_bangong_png,img_bipingkaishi_png,img_bipinjiesu_png,img_caikuang_png,img_daojishi1_png,img_daojishi2_png,img_daojishi3_png,img_dazhe_png,img_dierming_png,img_disanming_png,img_diyiming_png,img_fushang_png,img_huihelan_png,img_jiaju_png,img_laicon_png,img_maicon_png,img_naozhongdaojishi_png,img_npcbeijing_png,img_npcxuetiao_png,img_paimingshangsheng_png,img_paimingxiajiang_png,img_qigai_png,img_qitaming_png,img_rencai_png,img_shangdikuang_png,img_shangjiantou_png,img_shangmianwenzibj_png,img_shangxiangkuang_png,img_shihe_png,img_shihejiaobiao_png,img_shucai_png,img_shudian_png,img_suanicon_png,img_sudujindu_png,img_tianicon_png,img_tiaoliaoicon_png,img_tijian_png,img_touxiangkuanghong_png,img_touxiangkuanglan_png,img_touxiangkuangpaiming_png,img_wuming_png,img_xiadikuang_png,img_xiajiantou_png,img_xiamianwenzibj_png,img_xiamianxiangkuang_png,img_yimanzu_png,img_yizhili_png,img_youbiaotouxiang_png,img_youleyuan_png,img_yushui_png,img_zhandou_png,img_zhandouduihuaqipao_png,img_zhangxiaoke_png,img_zijibeijing_png,img_zijixuetiao_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu5.json",
+			"type": "sheet",
+			"name": "xiaotu5_json",
+			"subkeys": "img_baobiaobiaoti_png,img_bottombg_png,img_caipindikuang1_png,img_calendar_png,img_cuowuduihuakuang_png,img_cuowutishi_png,img_daerzinengliicon_png,img_daerzixinqinicon_png,img_dangqianshike_png,img_dibutuopan_png,img_duihuaqipao_png,img_ererzinengliicon_png,img_ererzixinqinicon_png,img_fennulian_png,img_happiness_png,img_hongdiantishi_png,img_jiankang_png,img_jiating_png,img_paomadeng_png,img_qian_png,img_quedingguanggao1_png,img_quedingguanggao2_png,img_quedingzhuanfa1_png,img_quedingzhuanfa2_png,img_saoba_png,img_shengyinanniu1_png,img_shengyinanniu2_png,img_shicai_png,img_shicaibuzu_png,img_shijianbaitian_png,img_shijianheiye_png,img_sunnvnengliicon_png,img_sunnvxinqingicon_png,img_tianqiqing_png,img_tianqixue_png,img_tianqiyu_png,img_timebar_png,img_timebarbg_png,img_timebg_png,img_timetextbg_png,img_timezhong_png,img_waimaitanchu_png,img_waimaiyuan_png,img_wangluo1_png,img_wangluo2_png,img_xiamiantishi_png,img_xiaolian_png,img_xifunengliicon_png,img_xifuxinqingicon_png,img_xingfu_png,img_xinqing_png,img_yuanxingtaijie_png,img_zhengqueduihuakuang_png,img_zhuangtaixianshibg_png,ing_xuqiuqipao_png,kongbaitouxiang_png,yg1001_png,yg1002_png,yg1003_png,yg1004_png,yg1005_png,yg1006_png,yg1007_png,yg1008_png,yg1009_png,yg1010_png,yg1011_png,yg1012_png,yg1013_png,yg1014_png,yg1015_png,yg1016_png,ygwaimai_png"
+		},
+		{
+			"url": "assets/myziyuan/xiaotu6.json",
+			"type": "sheet",
+			"name": "xiaotu6_json",
+			"subkeys": "img_baicai1_png,img_chupengdiban_png,img_dahuo_png,img_dangqianzhishi_png,img_dingbu_png,img_huisezhishi_png,img_jindutiao_png,img_jindutiaodi_png,img_jingyanlizi_png,img_jinrubeijing_png,img_lajiao_png,img_paihangbangbeijing_png,img_rou1_png,img_shangjindudi_png,img_shangjindushang_png,img_shanguangdian_png,img_tishiwenzidi_png,img_wanchengdulizi_png,img_xiaohuo_png,img_youbiao_png,img_zhonghuo_png"
+		}
+	]
+}
